@@ -192,3 +192,4 @@ resource "fastly_service_dictionary_items_v1" "tf_registry_docs_type" {
     prevent_destroy = true
   }
 }
+
